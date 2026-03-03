@@ -15,3 +15,10 @@ This is a Java GUI application that generates a resume for a user and saves it a
 - Swing (GUI)
 - File Handling
 - Event Handling
+
+## Demo Videos
+### Video 1 - GUI Demo
+[![GUI Demo](VIDEO 1.mp4)](VIDEO 1.mp4)
+
+### Video 2 - Output File Demo
+[![Output Demo](VIDEO 2.mp4)](VIDEO 2.mp4)
